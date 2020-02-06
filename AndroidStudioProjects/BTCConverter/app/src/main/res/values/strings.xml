@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BTC Converter</string>
+
+    <string-array name="names">
+        <item>USD</item>
+        <item>BTC</item>
+
+    </string-array>
+
+    <string-array name="name2">
+        <item>BTC</item>
+        <item>USD</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+</resources>
